@@ -1,4 +1,4 @@
-# Transport Catalogue System
+# Routes Visualization System
 
 Полнофункциональная система управления транспортным каталогом с поддержкой маршрутизации, визуализации и JSON интерфейса.
 
